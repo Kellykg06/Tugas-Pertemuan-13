@@ -1,0 +1,95 @@
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas_Pertemuan_13.Form1.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas_Pertemuan_13.Properties.Resources.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.GenerateResource.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.CoreCompileInputs.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.exe.config
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\AxShockwaveFlashObjects.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.Shared.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Dapper.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\ShockwaveFlashObjects.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\stdole.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Dapper.xml
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.CopyComplete
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\program-demo\kamis\pertemuan-13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csprojAssemblyReference.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas_Pertemuan_13.Form1.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas_Pertemuan_13.Properties.Resources.resources
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.GenerateResource.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.CoreCompileInputs.cache
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.exe.config
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.exe
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.pdb
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\AxShockwaveFlashObjects.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.Shared.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Dapper.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\ShockwaveFlashObjects.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\stdole.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Dapper.xml
+D:\UPH\UPH SEMESTER GANJIL 2020\Bahan\Kamis (18SI1)\tugas-pertemuan-13-async-class\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.CopyComplete
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csprojAssemblyReference.cache
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas_Pertemuan_13.Form1.resources
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas_Pertemuan_13.Properties.Resources.resources
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.GenerateResource.cache
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.CoreCompileInputs.cache
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.exe
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.pdb
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.exe.config
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.exe
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Tugas-Pertemuan-13.pdb
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\AxShockwaveFlashObjects.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.Shared.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Dapper.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\ShockwaveFlashObjects.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\stdole.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\bin\Debug\Dapper.xml
+D:\UPH\Semester 7\(4) Business Application Programming\Pet 13\Tugas-Pertemuan-13\Tugas-Pertemuan-13\obj\Debug\Tugas-Pertemuan-13.csproj.CopyComplete
